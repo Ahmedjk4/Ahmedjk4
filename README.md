@@ -14,9 +14,9 @@ Ahmed</h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Dart & Flutter
+- 🌱 I’m currently learning Dart & Flutter.
 
-- 💬 Ask me about **Flutter , Dart & Nodejs**
+- 💬 Ask me about **Flutter , Dart & Nodejs**.
 
 - 📫 How to reach me **ahmedjk4@outlook.com**
   <!---
